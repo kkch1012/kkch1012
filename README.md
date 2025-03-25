@@ -1,4 +1,4 @@
-
+## studying..😄 
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 <!--
 **kkch1012/kkch1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
