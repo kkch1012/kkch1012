@@ -39,7 +39,7 @@
     <a href="mailto:k49441503@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.notion.so/182b8bbd7c9c8026b6f3d2ef7a27e828" target="_blank">
+    <a href="https://www.notion.so/23db8bbd7c9c809fadafdb088703b4a5" target="_blank">
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
     </a>
   </div><br>
