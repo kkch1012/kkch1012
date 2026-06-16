@@ -7,13 +7,6 @@
 데이터로 문제를 발견하고, 기술로 해결하는 **풀스택 · AI 개발자** 김찬호입니다.<br>
 AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이즈 CRM 등 다양한 프로덕트를 만들어 왔습니다.
 
-<a href="https://kimchanho-portfolio.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-<a href="https://velog.io/@kkch9805/posts" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
-</a>
-
 </div>
 
 ## 💼 Career
