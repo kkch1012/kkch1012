@@ -14,7 +14,7 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
 </a>
 <a href="mailto:kkch9805@naver.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 </a>
 
 </div>
@@ -122,4 +122,7 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=k49441503@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="mailto:kkch9805@ecolead.co.kr">
+  <img src="https://img.shields.io/badge/Work_Email-00897B?style=for-the-badge&logo=maildotru&logoColor=white">
 </a>
