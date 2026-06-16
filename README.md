@@ -23,7 +23,7 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 
 | 기간 | 회사 | 역할 |
 |------|------|------|
-| `2026.06 ~ 재직중` | **ecolead** | Full-Stack Developer |
+| `2026.06 ~ 재직중` | **ecolead** | Full-Stack Developer · 주임 |
 | `2026.01 ~ 2026.06` | **(주)바틀** | Full-Stack Developer |
 
 > AI/LLM 기반 풀스택 SaaS, 모바일 앱(iOS/Android), 핀테크, 엔터프라이즈 CRM 등 다수 프로젝트 수행
