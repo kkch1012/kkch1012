@@ -103,7 +103,7 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-omega-seven-bz0a326x9p.vercel.app/api?username=kkch1012&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-omega-seven-bz0a326x9p.vercel.app/api/top-langs/?username=kkch1012&layout=compact&hide_border=true&theme=default&langs_count=8&count_private=true&exclude_repo=CIS-Migration&hide=jupyter%20notebook,html,css,classic%20asp,hack" />
+  <img height="165" src="https://github-readme-stats-omega-seven-bz0a326x9p.vercel.app/api/top-langs/?username=kkch1012&layout=compact&hide_border=true&theme=default&langs_count=8&count_private=true&hide=jupyter%20notebook,html,css,shell,batchfile,dockerfile,makefile,hack,procfile,plpgsql,scss,less,roff,xslt,dotenv&size_weight=0.5&count_weight=0.5" />
 </div>
 
 ## 🧑‍💻 Contact
@@ -120,6 +120,6 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 <a href="mailto:kkch9805@naver.com">
   <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 </a>
-<a href="mailto:k49441503@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=k49441503@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
