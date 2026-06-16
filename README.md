@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=Chanho%20Kim&desc=Full-Stack%20%26%20AI%20Developer&animation=fadeIn&fontColor=000000&fontSize=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=Chanho%20Kim&desc=Full-Stack%20%7C%20AI%20Developer&animation=fadeIn&fontColor=000000&fontSize=60&descSize=20" />
 </div>
 
 <div align="center">
@@ -44,11 +44,10 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 
 | 프로젝트 | 설명 | 기술 |
 |----------|------|------|
-| [**BoBi**](https://www.bobi.co.kr) | 보험 보장분석 금융앱 | Next.js · Capacitor · CODEF API · PortOne |
 | [**MoneySignal**](https://money-signal.vercel.app) | AI 금융 시그널 SaaS | Next.js · Claude · KIS API |
-| [**StockHero**](https://stockhero.vercel.app) | AI 3모델 교차검증 주식 분석 | Next.js · Claude/Gemini/GPT |
+| [**GolfPeople**](https://golf-people.vercel.app) | 골프 소셜 매칭 앱 | React · Capacitor · Supabase · RevenueCat |
 | [**Find My Item**](https://fmi-fe.vercel.app) | 지도 기반 분실물 찾기 커뮤니티 | Spring Boot · Next.js · MySQL |
-| **Saramin HS CRM** | 헤드헌팅 CRM 고도화 (₩90M 수주) | Next.js · Prisma · Claude API |
+| **JOBS** | AI 채용 매칭 플랫폼 | FastAPI · Airflow · MCP |
 
 > 전체 25개 프로젝트는 [**포트폴리오**](https://kimchanho-portfolio.vercel.app)에서 확인하실 수 있습니다.
 
@@ -92,7 +91,7 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kkch1012&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kkch1012&show_icons=true&hide_border=true&theme=default&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkch1012&layout=compact&hide_border=true&theme=default&langs_count=8" />
 </div>
 
