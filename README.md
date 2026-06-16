@@ -13,9 +13,6 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 <a href="https://velog.io/@kkch9805/posts" target="_blank">
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
 </a>
-<a href="mailto:kkch9805@naver.com">
-  <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-</a>
 
 </div>
 
@@ -117,12 +114,11 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 <a href="https://www.instagram.com/nerdy_er" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="mailto:kkch9805@naver.com">
-  <img src="https://img.shields.io/badge/Naver_Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white">
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=k49441503@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-<a href="mailto:kkch9805@ecolead.co.kr">
-  <img src="https://img.shields.io/badge/Work_Email-00897B?style=for-the-badge&logo=maildotru&logoColor=white">
-</a>
+
+📫 **Email** — 클릭이 안 되면 주소를 복사해 사용하세요
+
+| 구분 | 주소 |
+|------|------|
+| 개인 | `kkch9805@naver.com` |
+| Gmail | `k49441503@gmail.com` |
+| 회사 (ecolead) | `kkch9805@ecolead.co.kr` |
