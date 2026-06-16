@@ -60,7 +60,7 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 | [**Find My Item**](https://www.finditem.kr) | 지도 기반 분실물 찾기 커뮤니티 | Spring Boot · Next.js · MySQL |
 | **JOBS** | AI 채용 매칭 플랫폼 | FastAPI · Airflow · MCP |
 
-> 전체 25개 프로젝트는 [**포트폴리오**](https://kimchanho-portfolio.vercel.app)에서 확인하실 수 있습니다.
+> 전체 30개 프로젝트는 [**포트폴리오**](https://kimchanho-portfolio.vercel.app)에서 확인하실 수 있습니다.
 
 ## 🛠️ Tech Stack
 
