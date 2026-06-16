@@ -57,7 +57,7 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 |----------|------|------|
 | [**MoneySignal**](https://money-signal.vercel.app) | AI 금융 시그널 SaaS | Next.js · Claude · KIS API |
 | [**GolfPeople**](https://golf-people.vercel.app) | 골프 소셜 매칭 앱 | React · Capacitor · Supabase · RevenueCat |
-| [**Find My Item**](https://fmi-fe.vercel.app) | 지도 기반 분실물 찾기 커뮤니티 | Spring Boot · Next.js · MySQL |
+| [**Find My Item**](https://www.finditem.kr) | 지도 기반 분실물 찾기 커뮤니티 | Spring Boot · Next.js · MySQL |
 | **JOBS** | AI 채용 매칭 플랫폼 | FastAPI · Airflow · MCP |
 
 > 전체 25개 프로젝트는 [**포트폴리오**](https://kimchanho-portfolio.vercel.app)에서 확인하실 수 있습니다.
