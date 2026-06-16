@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=Chanho%20Kim&desc=Full-Stack%20%7C%20AI%20Developer&animation=fadeIn&fontColor=000000&fontSize=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Chanho%20Kim&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%7C%20AI%20Developer&descSize=22&descAlignY=60&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -102,7 +102,7 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kkch1012&show_icons=true&hide_border=true&theme=default&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kkch1012&show_icons=true&hide_border=true&theme=default" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkch1012&layout=compact&hide_border=true&theme=default&langs_count=8" />
 </div>
 
