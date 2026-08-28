@@ -25,6 +25,12 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 | `2021.03 ~ 2025.08` | **한성대학교** (졸업) | 모바일소프트웨어학과 · 1트랙: 모바일 소프트웨어 / 2트랙: 빅데이터 |
 | `2018.03 ~ 2021.02` | **서일대학교** (졸업) | 소프트웨어학과 |
 
+## 🏆 Awards
+
+| 기간 | 수상 | 주최 |
+|------|------|------|
+| `2026.08` | **제1회 요기요 X 오라클 AI 해커톤 3위 (장려상)** — 예선 190여 팀 중 본선 8팀 진출 (Team FLOW) | 요기요 · 오라클 |
+
 ## 📚 Activities & Training
 
 | 기간 | 과정 | 기관 |
@@ -45,6 +51,7 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 
 | 프로젝트 | 설명 | 기술 |
 |----------|------|------|
+| [**YogiPick**](https://kimchanho-portfolio.vercel.app/projects/yogipick) | 🏆 스와이프 기반 AI 메뉴·매장 매칭 (해커톤 3위) | Expo · NestJS · Oracle AI DB 26ai |
 | [**MoneySignal**](https://money-signal.vercel.app) | AI 금융 시그널 SaaS | Next.js · Claude · KIS API |
 | [**GolfPeople**](https://golf-people.vercel.app) | 골프 소셜 매칭 앱 | React · Capacitor · Supabase · RevenueCat |
 | [**Find My Item**](https://www.finditem.kr) | 지도 기반 분실물 찾기 커뮤니티 | Spring Boot · Next.js · MySQL |
