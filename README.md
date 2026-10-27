@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Chanho%20Kim&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20%7C%20AI%20Developer&descSize=22&descAlignY=60&animation=fadeIn" />
 </div>
 
@@ -58,6 +58,17 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 | **JOBS** | AI 채용 매칭 플랫폼 | FastAPI · Airflow · MCP |
 
 > 전체 30개 프로젝트는 [**포트폴리오**](https://kimchanho-portfolio.vercel.app)에서 확인하실 수 있습니다.
+
+## ⚙️ Automation — 매일 돌아가는 것들
+
+개인 서버에서 상주·스케줄 실행 중인 자동화 시스템입니다.
+
+| 프로젝트 | 설명 | 실행 방식 |
+|----------|------|-----------|
+| [**mail-automation**](https://github.com/kkch1012/mail-automation) | 아침 브리핑 메일 + 정부과제 공고 감시 + 공모전 알림 3종 통합 | 작업 스케줄러 · 30분 루프 상주 |
+| [**contest-watch-dashboard**](https://contest-watch-dashboard.vercel.app) | 공모전 수집 결과 대시보드 | Vercel |
+| [**orch-stock-dashboard**](https://github.com/kkch1012/orch-stock-dashboard) | AI 주식 추천 대시보드 + 푸시 알림 | Vercel · 평일 09:00 |
+| [**orch-dashboard**](https://github.com/kkch1012/orch-dashboard) | 오케스트레이터 모니터링 대시보드 | 웹 |
 
 ## 🛠️ Tech Stack
 
