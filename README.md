@@ -29,7 +29,7 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 
 | 기간 | 수상 | 주최 |
 |------|------|------|
-| `2026.08` | **제1회 요기요 X 오라클 AI 해커톤 3위 (장려상)** — 예선 190여 팀 중 본선 8팀 진출 (Team FLOW) | 요기요 · 오라클 |
+| `2026.07 ~ 2026.08` | **제1회 요기요 X 오라클 AI 해커톤 3위 (장려상)** — 예선 190여 팀 중 본선 8팀 진출 (Team FLOW) | 요기요 · 오라클 |
 
 ## 📚 Activities & Training
 
@@ -42,10 +42,10 @@ AI/LLM 기반 SaaS · 모바일 앱(iOS/Android) · 핀테크 · 엔터프라이
 
 ## 📜 Certifications
 
-![빅데이터분석기사](https://img.shields.io/badge/빅데이터분석기사-2025.07-0A66C2?style=flat-square)
-![SQLD](https://img.shields.io/badge/SQLD-2025.04-336791?style=flat-square)
-![ADsP](https://img.shields.io/badge/ADsP-2025.03-FF6F00?style=flat-square)
-![정보처리기사](https://img.shields.io/badge/정보처리기사-2024.12-2E7D32?style=flat-square)
+![빅데이터분석기사](assets/badges/bigdata.svg)
+![SQLD](assets/badges/sqld.svg)
+![ADsP](assets/badges/adsp.svg)
+![정보처리기사](assets/badges/engineer.svg)
 
 ## 🚀 Featured Projects
 
